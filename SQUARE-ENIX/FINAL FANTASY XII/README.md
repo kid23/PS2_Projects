@@ -2,7 +2,7 @@
 
 
 FF12 Tool v0.3 2008.5.3
-Copyright (C) 2008, kid, K_I_D@126.com
+Copyright (C) 2008, kid
 
 FF12_Tool.exe [-dump|-rebuild|-import] [...] [isofile] [newisofile]
         -dump: [...]
